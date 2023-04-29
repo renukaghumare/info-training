@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Noto Serif", serif;
+    border: black;
+  }
+  h1 {
+    text-transform: uppercase;
+    color:rgb(3, 66, 87);
+    font-weight: bolder;
+    display: block;
+    margin-bottom: 2px;
+    margin: top 2px;
+    margin-left: 30px;
+    text-shadow: black;
+    font-size: x-large;
+  }
+  .container {
+    background-color: white;
+    font-family: "Noto Serif", serif;
+    width: 1000px;
+    height: 1000;
+    margin-left: 30px;
+  }
+  .box1 {
+    color: darkgreen;
+    display: inline-block;
+    border: red;
+    width: 10%;
+    height: 400px;
+    font-size: xx-large;
+    float: left;
+  }
+  .box2 {
+    display: block;
+    border: red;
+    float: left;
+    width: 63%;
+    height: 400px;
+    margin-left: none;
+  }
+  p{
+      margin-bottom: 5px;
+  }
+  i{
+      margin-bottom: 10px;
+  }
+  span{ 
+      color: rgb(62, 6, 139);
+      font-weight: bolder;
+  }
+  img{
+    margin-left:30px;
+    width: 60%;
+    height: 300px;
+    background-image: url(infoTraning.html);
+    background-size: 90%;
+    margin-top: -50px;
+  }
